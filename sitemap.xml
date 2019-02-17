@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>busrakoken.com/</loc>
+    <loc>https://www.busrakoken.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>busrakoken.com/categories/</loc>
+    <loc>https://www.busrakoken.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>busrakoken.com/tags/</loc>
+    <loc>https://www.busrakoken.com/tags/</loc>
     <priority>0</priority>
   </url>
   
