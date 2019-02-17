@@ -88,8 +88,7 @@ div.content
 {
     font-family: 'Roboto', sans-serif;
     font-weight: 200;
-    color: rgb(116, 116, 116);
-    line-height: 1.4
+    color: #8b8b8b;
 }
 .error
 {
@@ -101,7 +100,7 @@ div.content
 {
     font-size: 80px;
 
-    color: #bbb;
+    color: #8b8b8b;
 }
 .error p
 {
@@ -122,7 +121,7 @@ div.content
 {
     margin-top: 10px;
 
-    color: #bbb;
+    color: #8b8b8b;
 }
 .header
 {
@@ -198,7 +197,7 @@ h3.intro
     font-size: 12px;
     font-weight: 200;
 
-    color: #bbb;
+    color: #8b8b8b;
 }
 a.meta
 {
@@ -210,10 +209,10 @@ h6.meta
     font-size: 12px;
     font-weight: 200;
 
-    color: #bbb;
+    color: #8b8b8b;
 }
 section.meta {
-    margin-top: 
+    margin-top:
 }
 .powered
 {
