@@ -10,5 +10,14 @@
 	<atom:link href="https://www.busrakoken.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Tals</title>
+      <link>https://www.busrakoken.com/tags/tals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.busrakoken.com/tags/tals/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

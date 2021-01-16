@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Busra Koken</title>
-    <link>https://www.busrakoken.com/</link>
-    <description>Recent content on Busra Koken</description>
+    <title>Talks on Busra Koken</title>
+    <link>https://www.busrakoken.com/categories/talks/</link>
+    <description>Recent content in Talks on Busra Koken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://www.busrakoken.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.busrakoken.com/categories/talks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
