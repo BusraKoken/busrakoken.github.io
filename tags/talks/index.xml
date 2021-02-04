@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Busra Koken</title>
+    <link>https://www.busrakoken.com/tags/talks/</link>
+    <description>Recent content in Talks on Busra Koken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.busrakoken.com/tags/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conference Talks</title>
+      <link>https://www.busrakoken.com/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.busrakoken.com/talks/</guid>
+      <description> Scaling up infrastructure during Corona times - Picnic Meetup 2020
+ DevOps Stories on Adapting the Mindset
+ Container Days 2019 DevOps Gathering 2019 DevOps Barcelona 2018  I love being Pythonic, you? PyCon UK 2016
+ Automating Distributed Tasks with Ansible in the Cloud, PyCon SK 2015
+  </description>
+    </item>
+    
+  </channel>
+</rss>
